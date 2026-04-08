@@ -2,6 +2,8 @@
 
 A database design for managing clinic.
 
+![ER Diagram](er-diagram.png)
+
 ---
 
 ## How It Works (Simple Flow)
